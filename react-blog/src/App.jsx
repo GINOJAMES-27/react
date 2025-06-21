@@ -20,6 +20,8 @@ function Apple()
       <Profile/>
       <Picture/>
       <h1>Key: {key}</h1>
+      <h1>{10-5}</h1>
+      <button onClick={()=>alert("hi hellooo")}>Click</button>
 
       
 
